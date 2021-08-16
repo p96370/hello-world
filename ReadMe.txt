@@ -5,3 +5,5 @@ This repository is built step by step in the tutorial.
 My second update
 It now includes steps for GitHub!
 This is Elena's own change.
+
+-This is the second way of transferring to computer-
