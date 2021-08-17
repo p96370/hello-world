@@ -7,3 +7,5 @@ It now includes steps for GitHub!
 This is Elena's own change.
 
 -This is the second way of transferring to computer-
+
+-> Pushing a branch to GitHub.
